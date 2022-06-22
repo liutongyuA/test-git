@@ -11,6 +11,7 @@ GitHub修改代码
 远程仓库：托管代码的服务器 （GitHub、gitlab、gitee）
 
 > 初始化Git
+
 1.首先要安装git （官网下载https://git-scm.com/）
 2.然后在本地新建目录，注意目录名 （工作区）
 3.在目录下右键 git Bash here 打开git终端命令行
