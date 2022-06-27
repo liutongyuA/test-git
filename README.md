@@ -32,14 +32,14 @@ unmodify 文件已入库
 > 查看操作的日志与操作本地仓库前进回退历史版本
 1.日志
 
-git log 日志打印详细
+`git log` 日志打印详细
 
-git log --online 日志打印一行简洁展示
+`git log --online` 日志打印一行简洁展示
 
-git reflog 日志会打印一个重要的信息指针（HEAD）----用的较多
+`git reflog` 日志会打印一个重要的信息指针（HEAD）----用的较多
 
 2.操作本地仓库
 
-git reset --HEAD 索引（哈希值生成）
+`git reset --HEAD` 索引（哈希值生成）
 
 说明：如果你回退本地仓库，那么暂存区和工作区的文件会同步重置
